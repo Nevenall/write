@@ -31,3 +31,8 @@ retext spell might be the easiest way to go
 ## 1.30.2023, danb
 
 I think I see now how to format some toc contents.
+
+## 2.1.2023, danb
+
+Got a basic toc working. Have to ask ourselves, should the toc be a tree? will that be easier to turn into nav on the other end? 
+it probably will be. 
