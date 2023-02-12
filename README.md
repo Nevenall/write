@@ -1,6 +1,14 @@
 # Write
 
-My template for markdown projects; just fork and write!
+Write is a template for markdown projects designed especially for tabletop role-playing texts.
+
+The HTML output is intended to integrate with [BookShelf](https://github.com/Nevenall/bookshelf) for presentation, but that's far from a requirement. 
+
+## Getting Started
+
+```
+COMING SOON!
+```
 
 ## Compiles to Html
 
