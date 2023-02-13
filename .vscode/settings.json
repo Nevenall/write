@@ -1,10 +1,11 @@
 {
    "spellright.language": [
-      "en"
-   ],
+    "en"
+  ],
    "spellright.documentTypes": [
-      "latex",
-      "plaintext"
-   ],
+    "latex",
+    "plaintext",
+    "markdown"
+  ],
    "workbench.colorCustomizations": {}
 }
